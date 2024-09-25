@@ -6,6 +6,6 @@
 
 $nombre = isset($argv[1] ? $argv[1] : "mundo";
 print new HolaMundo($nombre);
-
+@print "hola, {$nombre}\n";
 
 ?>

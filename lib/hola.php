@@ -1,4 +1,4 @@
-//viva españa
+
 <?php
 
 //autor: Adrian Leonard Stan
